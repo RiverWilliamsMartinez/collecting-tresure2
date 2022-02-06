@@ -92,7 +92,7 @@ gameOver = createSprite(200,200,20,20)
 //add a animation for gameover
 gameOver.addAnimation("gameOver",gameOverimg)
 //scale the gameover image
-s
+
        
      
     }
